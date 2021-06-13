@@ -1,6 +1,6 @@
 {
-  "name": "pantherswap-frontend-dex",
-  "description": "PantherSwap Dex Interface",
+  "name": "mumuswap-frontend-dex",
+  "description": "MumuSwap Dex Interface",
   "homepage": ".",
   "private": true,
   "dependencies": {
