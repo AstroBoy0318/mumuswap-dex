@@ -1,7 +1,7 @@
 const contracts: {mumuAddress: string, busdAddress: string, lpAddress:string} = {
-  mumuAddress: '0x405fec416E850Ca37DFdfa103A0e307fc0BAe1ac',
-  busdAddress: '0xD500E3CF845CC41ABa54bB1dD426bD3485bD8Cd5',
-  lpAddress: '0x44c05b5241443609AD3c951aAD8885EbDB53aC30'
+  mumuAddress: '0x9d7576D8549f6E481170D149d9Cd456Cfe817593',
+  busdAddress: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
+  lpAddress: '0x21CE11D6bfcB4088B0E28c265AD79A7Af2814B9f'
 }
 
 export default contracts
